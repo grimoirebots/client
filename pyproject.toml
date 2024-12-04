@@ -6,10 +6,10 @@ authors = ["Sergio Merino Hernández <merinhunter94@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
-api-client = "^1.3"
-configparser = "^5.3"
-docker = "^6.1"
+python = "~3.13"
+api-client = "~1.3"
+configparser = "~7.1"
+docker = "~7.1"
 
 [build-system]
 requires = ["poetry-core"]
